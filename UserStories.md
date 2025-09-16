@@ -15,7 +15,7 @@ Description: As a restaurant staff member, I can update menu items so that the o
 Title: As a restaurant staff member, I can remove menu items  
 Description: As a restaurant staff member, I can remove menu items so that the online menu does not display certain items.  
   
-2. 
+2. Each menu item should include details such as name, description, category (e.g., appetizer, entrée, dessert), price, and availability status.  
 
 
 
