@@ -110,24 +110,37 @@ Title: As a customer, I can receive order confirmation.
 Description: As a customer, I can receive order confirmation via email, SMS, or in-app notifications so that I have the ability and flexibility to keep track of my order. 
 _________
 14. Restaurant staff are notified when new orders arrive.
-Title: As a restaurant staff member, I receive notifications when new orders arrive.
-Description: As a restaurant staff member, I receive notifications when new orders arrive so that we, the restaurant staff, can begin working on the order. 
+Title: As a restaurant staff member, I can receive notifications when new orders arrive.
+Description: As a restaurant staff member, I can receive notifications when new orders arrive so that we, the restaurant staff, can begin working on the order. 
 _________
 Delivery Management:
 _________
 14. The system assigns delivery personnel to orders (either manually by staff or automatically).
 _________
-Title: As a delivery personnel, I am automatically assigned to orders. 
-Description: As a delivery personnel, I am automatically assigned to orders so that every order gets assigned and I can start delivering as soon as I see that the order is ready. 
+Title: As a delivery personnel, I can be automatically assigned to orders. 
+Description: As a delivery personnel, I can be automatically assigned to orders so that every order gets assigned and I can start delivering as soon as I see that the order is ready. 
 _________
 15. Delivery personnel can view delivery addresses, estimated times, and order details.
-
-
+Title: As a delivery personnel, I can view delivery addresses.
+Description: As a delivery personnel, I can view the delivery address for the order I am currently delivering so that I know where to go. 
+_________
 Reports and Analytics:
-
+_________
 16. Administrators and managers can generate reports about popular dishes, sales trends, order volume, and customer demographics.
-
-
+_________
+Title: As an administrator/manager, I can generate reports about menu items.
+Description: As an administrator/manager, I can generate reports about menu items so that I can track the popularity of the menu items.
+_________
+Title: As an administrator/manager, I can generate reports about restaurant sales.
+Description: As an administrator/manager, I can generate reports about restaurant sales so that we can track the business and the strength/weakness of our restaurant at any given time.
+_________
+Title: As an administrator/manager, I can generate reports about order volume.
+Description: As an administrator/manager, I can generate reports about order volume so that the number of orders per dish over a specific time frame is known.
+_________
+Title: As an administrator/manager, I can generate reports about customer demographics.
+Description: As an administrator/manager, I can generate reports about customer demographics so that we can analyze our customers and cater to them. 
+_________
 17. Insights help with decision-making around inventory, pricing, and promotions.
-
-
+Title: As an administrator/manager, I can use generated reports to make decisions.
+Description: As an administrator/manager, I can use generated reports to make decisions so that I have accurate, data-backed evidence to decide on inventory, pricing, and promotions. 
+_________
