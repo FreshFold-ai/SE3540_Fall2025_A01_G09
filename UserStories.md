@@ -76,47 +76,56 @@ _________
 Title: As a customer, I can add menu items to a cart
 Description: As a customer, I can add menu items to a cart so that after selecting/customizing my desired menu item, I can add it to my overall order and move on to the next desired item. 
 _________
-8. Orders can be placed for either delivery or pickup.
+7. Orders can be placed for either delivery or pickup.
 _________
 Title: As a customer, I can place an order for delivery or pickup. 
 Description: As a customer, I can place an order for delivery or pickup so that I determine how I want the food: either I can pick it up from the restaurant or have it delivered to my address. 
 _________
-9. The system should provide real-time calculation of order totals, including taxes, discounts, and delivery fees.
+8. The system should provide real-time calculation of order totals, including taxes, discounts, and delivery fees.
 _________
-
+Title: As a customer, I can view the real-time order total.
+Description: As a customer, I can view the real-time order total so that I can see how much my currently selected order in my cart will cost including taxes, discounts, and delivery fees. 
 _________
-10. Multiple payment methods should be supported (e.g., credit card, mobile wallet, cash on delivery).
-
-
+9. Multiple payment methods should be supported (e.g., credit card, mobile wallet, cash on delivery).
+_________
+Title: As a customer, I can pay with myriad payment methods.
+Description: As a customer, I can pay with myriad payment methods so that I have an easy time being able to pay with cash, credit, or mobile wallet.
+_________
 Order Tracking:
-
+_________
 10. After placing an order, customers should be able to track its status: Received, Preparing, Out for Delivery, Delivered.
-
-
+Title: As a customer, I can track the order status.
+Description: As a customer, I can track the order status so that I know if my order has been received, if the restaurant is preparing the food, if its out for delivery, and if its been delivered. 
+_________
 11. Delivery personnel should update status as they progress.
-
-
+Title: As a delivery personnel, I can update the order status.
+Description: As a delivery personnel, I can update the order status so that the customer knows how far I've progressed on the way to their address. 
+_________
 Notifications:
-
+_________
 12. Customers receive order confirmations and status updates via email, SMS, or in-app notifications.
-
-
-13. Restaurant staff are notified when new orders arrive.
-
-
+Title: As a customer, I can receive order confirmation.
+Description: As a customer, I can receive order confirmation via email, SMS, or in-app notifications so that I have the ability and flexibility to keep track of my order. 
+_________
+14. Restaurant staff are notified when new orders arrive.
+Title: As a restaurant staff member, I receive notifications when new orders arrive.
+Description: As a restaurant staff member, I receive notifications when new orders arrive so that we, the restaurant staff, can begin working on the order. 
+_________
 Delivery Management:
-
+_________
 14. The system assigns delivery personnel to orders (either manually by staff or automatically).
-
-
+_________
+Title: As a delivery personnel, I am automatically assigned to orders. 
+Description: As a delivery personnel, I am automatically assigned to orders so that every order gets assigned and I can start delivering as soon as I see that the order is ready. 
+_________
 15. Delivery personnel can view delivery addresses, estimated times, and order details.
 
 
 Reports and Analytics:
 
-17. Administrators and managers can generate reports about popular dishes, sales trends, order volume, and customer demographics.
+16. Administrators and managers can generate reports about popular dishes, sales trends, order volume, and customer demographics.
 
 
-18. Insights help with decision-making around inventory, pricing, and promotions.
+17. Insights help with decision-making around inventory, pricing, and promotions.
 
 
