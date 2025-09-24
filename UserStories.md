@@ -3,6 +3,8 @@
 Title: Should contain the "As a [ROLE], I can [GOAL]" portion of your User Story  
 Description: Should contain the full user story in the format "As a [ROLE], I can [GOAL] so that [REASON]"  
 
+*****After completion, transfer all user stories to GitLab Issues.****** 
+
 # User Stories  
 1. Restaurant staff should be able to add, update, or remove menu items.  
 _________
