@@ -141,6 +141,7 @@ Title: As an administrator/manager, I can generate reports about customer demogr
 Description: As an administrator/manager, I can generate reports about customer demographics so that we can analyze our customers and cater to them. 
 _________
 17. Insights help with decision-making around inventory, pricing, and promotions.
+_________   
 Title: As an administrator/manager, I can use generated reports to make decisions.
 Description: As an administrator/manager, I can use generated reports to make decisions so that I have accurate, data-backed evidence to decide on inventory, pricing, and promotions. 
 _________
